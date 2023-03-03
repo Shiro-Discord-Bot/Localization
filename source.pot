@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-03-03 18:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: src/extensions/quiz.py:98
+msgid "Guess the opening being played with the people in your voice channel"
+msgstr ""
+
+#: src/extensions/quiz.py:98
+msgid "quiz"
+msgstr ""
+
+#: src/extensions/quiz.py:100
+msgid "Whether you want to guess more known or unpopular songs"
+msgstr ""
+
+#: src/extensions/quiz.py:101
+msgid "The kind of songs to be played"
+msgstr ""
+
+#: src/extensions/quiz.py:102
+msgid "How long the quiz should take"
+msgstr ""
+
+#: src/extensions/quiz.py:106
+msgid "easy"
+msgstr ""
+
+#: src/extensions/quiz.py:107
+msgid "normal"
+msgstr ""
+
+#: src/extensions/quiz.py:108
+msgid "hard"
+msgstr ""
+
+#: src/extensions/quiz.py:109
+msgid "expert"
+msgstr ""
+
+#: src/extensions/quiz.py:112
+msgid "openings"
+msgstr ""
+
+#: src/extensions/quiz.py:113
+msgid "endings"
+msgstr ""
+
+#: src/extensions/quiz.py:114
+msgid "both"
+msgstr ""
+
+#: src/extensions/quiz.py:121
+msgid "I'm already connected to a voice channel!"
+msgstr ""
+
+#: src/extensions/quiz.py:123
+msgid "Preparing"
+msgstr ""
+
+#: src/extensions/quiz.py:126
+msgid ""
+"1. Song\n"
+"2. Song\n"
+"3. Song\n"
+"4. Song\n"
+"5. Song"
+msgstr ""
+
